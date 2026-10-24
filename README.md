@@ -7,6 +7,8 @@ e-commerce operations experience.
 I work on automating real operational problems in e-commerce: order data
 cleaning, validation, and bulk communication. My background in operations
 means I build tools around how the business actually runs.
+## 🚀 Projects
+- [bulk-order-mailer](https://github.com/syed-tryexcept/bulk-order-mailer): Python SMTP tool for bulk order-update emails, with preview/test/live modes, duplicate-send protection, logging and tests.
 
 ## 🔧 Currently building
 - A Python tool that cleans and merges e-commerce order exports before
