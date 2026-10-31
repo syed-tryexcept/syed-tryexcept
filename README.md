@@ -17,8 +17,11 @@ means I build tools around how the business actually runs.
 FastAPI · PostgreSQL · Docker · Git
 
 ## 🧰 Skills
-- **Python:** pandas, openpyxl, smtplib (SMTP email automation)
-- **Domain:** order management, SOPs, reporting, e-commerce operations
+- **Languages:** Python, SQL (learning)
+- **Data & Automation:** pandas, openpyxl, smtplib (SMTP email automation), web scraping, HAR/API analysis
+- **Backend (learning):** FastAPI, PostgreSQL, Docker
+- **Tools:** Git, GitHub, Chrome DevTools, Excel
+- **Domain:** E-commerce operations (6 years), order management, SOPs, reporting, backlog tracking
 
 ## 🌍 Availability
 Based in Bangladesh (UTC+6), with strong overlap with European working
