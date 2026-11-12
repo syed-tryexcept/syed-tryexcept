@@ -12,6 +12,7 @@ means I build tools around how the business actually runs.
 - [product-api-exporter](https://github.com/syed-tryexcept/product-api-exporter): Python CLI that finds a store's JSON API and exports product data to Excel, with pagination, logging and tests.
 - [ecommerce-product-automation](https://github.com/syed-tryexcept/ecommerce-product-automation): End-to-end Python automation pipeline for scraping, organizing SKU images and descriptions, and mapping Google Drive master directories for 276+ products.
 - [har-api-analyzer](https://github.com/syed-tryexcept/har-api-analyzer): Python tool that turns Chrome HAR files into API activity reports with error and slow-request summaries.
+- [pathao-invoice-exporter](https://github.com/syed-tryexcept/pathao-invoice-exporter): Python tool that bulk downloads Pathao merchant invoice CSVs and merges them into one Excel report.
 
 ### 📚 Currently Learning
 FastAPI · PostgreSQL · Docker · Git
